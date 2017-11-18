@@ -1,0 +1,66 @@
+*{margin:0;padding:0; }
+ 
+
+nav.navbar.navbar-default {
+    height: 80px; 
+    padding-top: 14px; 
+    margin-bottom: 0px;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #1abc9c;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar-default .navbar-nav > li > a {
+    text-transform: uppercase;
+    letter-spacing: 1.9px;
+    font-size: 13px;
+}
+
+.navbar-default {
+    border: none;
+}
+
+.xanh {
+    background-color: #1abc9c;
+    padding-top: 40px;
+}
+
+.xanh h3 {
+    padding-bottom: 20px;
+    padding-top:10px;
+}
+
+.xam {
+    background: gray;
+    color: white;
+    padding-bottom: 67px;
+}
+
+.xam p {
+    font-size: 15px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.xam .btn.btn-default {
+    font-size: 16px;
+    padding: 4px 14px;
+}
+
+.where h2 {
+    padding: 88px 0;
+    font-size: 44px
+}
+
+.footer {
+    padding:100px 0px;
+    background: gray;
+    color: white;
+    font-size:30px;
+    margin-top: 88px;
+}
