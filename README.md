@@ -7,7 +7,7 @@ Bootstrap basic:
 2. Button
 3. Image
 
- ![Website-1](\Sceenshots\Website-1.png)
+ ![Website-1](/Sceenshots/Website-1.png)
 
 ## Website 2
 Bootstrap class:
@@ -17,7 +17,7 @@ Bootstrap class:
 
 bonus: Left menu
 
- ![Website-2](\Sceenshots\Website-2.png)
+ ![Website-2](/Sceenshots/Website-2.png)
 
  ## Website 3
  Bootstrap tip and rewrite css of bootstrap:
@@ -25,7 +25,8 @@ bonus: Left menu
  1. simple hover of menu
  2. write css file to overload style of bootstrap
 
- ![Website-3](\Sceenshots\Website-3.png)
+ ![Website-3](https://github.com/quangvinh86/bootstrap-tutorial/blob/master/Sceenshots/Website-3.png)
+ 
 
 ## Website 4
 1. Write complete website step by step
