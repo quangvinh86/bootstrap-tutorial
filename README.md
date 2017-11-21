@@ -17,6 +17,7 @@ Bootstrap class:
 
 bonus: Left menu
 
+
  ![Website-2](/Sceenshots/Website-2.png)
 
  ## Website 3
@@ -25,8 +26,8 @@ bonus: Left menu
  1. simple hover of menu
  2. write css file to overload style of bootstrap
 
- ![Website-3](https://github.com/quangvinh86/bootstrap-tutorial/blob/master/Sceenshots/Website-3.png)
- 
+ ![Website-3](/Sceenshots/Website-3.png)
+
 
 ## Website 4
 1. Write complete website step by step
@@ -35,9 +36,13 @@ bonus: Left menu
 - First demo about Jquery
 
 bonus: Google Web Fonts and Font Awesome Icons
+
 ex: 
+
 fa fa-github
+
 https://fonts.googleapis.com/css?family=Lato
 
-![Website-4](\Sceenshots\Website-4.png)
+
+![Website-4](/Sceenshots/Website-4.png)
 
