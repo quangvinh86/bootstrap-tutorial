@@ -47,5 +47,14 @@ https://fonts.googleapis.com/css?family=Lato
 ![Website-4](/Sceenshots/Website-4.png)
 
 ## Website 5
-1. Responsive web!
-2. fa-3x : Nhân 3 icon lên
+1. Responsive banner
+2. Fix left or right menu
+3. emmbed google map
+
+
+tip & trick: 
+- fa-3x : Nhân 3 icon lên
+- background-size: cover : ảnh backgroup sẽ luôn full màn hình
+- border-radius: 0px --> Không bo tròn button mặc định của bootstrap nữa
+- border-radius: 50% --> bo tròn toàn bộ cả khung vuông.
+- z-index: 3 --> cho phep 1 div duoc phep nam tren cac div khac
