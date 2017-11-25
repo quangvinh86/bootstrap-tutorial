@@ -1,14 +1,31 @@
 *{margin:0;padding:0; }
 
+.menudoc a {
+    color: white;
+    padding: 8px 13px;
+    display: block;
+    border: 1px solid gray;
+    font-size: 12px;
+}
+
+ul.menudoc {
+    list-style: none;
+}
+
 .menuphai {
     position: fixed;
-    right: 0px;
     top: 0px;
     height: 900px;
     background: black;
-    width: 200px;
+    width: 250px;
     z-index: 3;
     color: white;
+    transition: all 0.4s;
+    right: -300px;
+}
+
+.menuphai.ra {
+    right: 0px;
 }
 
 .nutmenu a.fa {
